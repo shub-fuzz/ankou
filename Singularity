@@ -3,7 +3,7 @@ From: registry.gitlab.com/rode0day/fuzzer-testing/ankou_runner:16.04
 
 %labels
     MAINTAINER Josh Bundt
-    DockerTagID a557a6205
+    DockerTagID 7825de346
 
 %environment
     AFL_SKIP_CPUFREQ=1
